@@ -1,7 +1,7 @@
 package main
 
 import (
-	"math/rand"
+	"crypto/rand"
 	"time"
 )
 
